@@ -16,3 +16,5 @@ lemon.remember-me-key: someSecret
 
 lemon.admin.username: admin@example.com
 lemon.admin.password: admin!
+
+lemon.cors.allowed-origins: http://localhost:9000
